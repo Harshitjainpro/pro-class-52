@@ -1,0 +1,28 @@
+h1 {
+    color: #a52a2a;
+}
+
+li {
+    color: #ff7f51;
+}
+
+img {
+    border: solid;
+    border-color: #000000;
+}
+.header{
+    background-color: #00eeff;
+    display: flex;
+    justify-content: safe;
+}
+.footer{
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
+.grid{
+    background-color: #faeed6;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
